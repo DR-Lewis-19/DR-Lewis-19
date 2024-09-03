@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DR-Lewis-19
-- 👀 I’m interested in data science, coding and cybersecurity
-- 🌱 I’m currently learning Python, SQL and JSON
+- 👀 I’m interested in UI/UX Design, Photography, Web development and Data Analytics
+- 🌱 I’m currently learning Python, SQL and UI/UX
 - 💞️ I’m looking to collaborate on Python projects and Website building
 - 😄 Pronouns: she/slay
 
